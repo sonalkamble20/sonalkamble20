@@ -19,20 +19,32 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Projects (Newest to Oldest)
 
-#### 🍓 [TaskBerry](https://github.com/sonalkamble20/WDP-Project) — Full-Stack Task Management
-*   Built a comprehensive task & job manager with **Node.js, Express, and MySQL**.
-*   Implemented secure **JWT authentication** with HttpOnly cookies and role-based access control.
-*   Designed a clean, color-coded dashboard with optimistic UI updates.
+#### 🌙 [Aura — Navigate Her World](https://aura-xdq8.onrender.com/) (Feb 2026)
+*   **Concept:** A privacy-first mobile app using hormonal cycle data and environmental context for actionable daily guidance.
+*   **Tech:** React Native, Node.js, PostgreSQL, MongoDB, Python/ML.
+*   Architecture featuring a compatibility gate and ethical AI engine (Scikit-learn + TensorFlow Lite).
 
-#### 🌐 [Interact](https://github.com/sonalkamble20/UIP-Project) — Social Media Platform
-*   A **MERN-stack** application featuring real-time state management and user interactions.
-*   Integrated secure password hashing with `bcryptjs` and dynamic routing using React Router 19.
+#### 🧟 [Humans vs. Zombies Website](https://github.com/sonalkamble20) (Spring 2026)
+*   **Static Site:** A fully-themed, 8-page survival game website built with **Zero Frameworks**.
+*   **Highlights:** IntersectionObserver scroll animations, animated counters (requestAnimationFrame), and mobile-first responsive design.
 
-#### 🌙 [Aura — Navigate Her World](https://aura-xdq8.onrender.com/)
-*   A privacy-first mobile concept focusing on environmental context and ethical AI.
-*   Architecture planned for **distributed AI processing** using Scikit-learn and TensorFlow Lite.
+#### 🍓 [TaskBerry](https://github.com/sonalkamble20/WDP-Project) (Feb 2026)
+*   **Full-Stack:** Job & task manager with **Node.js, Express, and MySQL**.
+*   **Security:** Implemented JWT authentication with HttpOnly cookies and role-based admin access.
+
+#### 🌐 [Interact](https://github.com/sonalkamble20/UIP-Project) (Spring 2026)
+*   **MERN Stack:** Social media platform with user profiles, posts, and follow systems.
+*   **React 19:** Optimized with optimistic UI updates and secure bcrypt password hashing.
+
+#### 🍽️ [Restaurant Management System](https://github.com/sonalkamble20) (2022)
+*   **Enterprise Flow:** End-to-end system covering ordering, serving, and billing.
+*   **Architecture:** Spring Boot, Spring Data JPA, and React.js applying **SOLID principles**.
+
+#### 🚁 [Thermal Imaging Drone](https://github.com/sonalkamble20) (2021)
+*   **IoT/CV:** Real-time crowd temperature detection system developed during the COVID-19 pandemic.
+*   **Algorithms:** Infrared-to-visual conversion pipeline and anomaly detection.
 
 ---
 
@@ -53,8 +65,9 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 
 ### 📫 Connect with Me
 
+- 💼 **LinkedIn**: [linkedin.com/in/sonal-kamble-8b1b17216](https://www.linkedin.com/in/sonal-kamble-8b1b17216/)
+- 🌐 **Portfolio**: [sonalkamble.dev](https://sonalkamble.dev)
 - 📧 **Email**: [sonal@sonalkamble.dev](mailto:sonal@sonalkamble.dev)
-- 🐙 **Portfolio**: [sonalkamble.dev](https://sonalkamble.dev)
 - 📍 **Location**: New York, USA
 
 ---
