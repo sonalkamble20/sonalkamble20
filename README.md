@@ -10,29 +10,30 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, JavaScript (ES6+), Python, SQL, C/C++ |
-| **Backend** | Spring Boot, Spring Data JPA, Node.js, Express.js, Microservices |
-| **Databases** | MySQL, PostgreSQL, MongoDB, Mongoose |
-| **Security** | JWT, bcrypt, OAuth, HttpOnly Cookies, Helmet |
-| **DevOps & Tools** | Git, GitHub, Bitbucket, Postman, VS Code, Linux |
-| **Core Concepts** | Distributed Systems, Concurrency, REST API Design, SOLID Principles, Data Structures & Algorithms |
+| **Languages** | Java 21, JavaScript (ES6+), SQL (PostgreSQL, MySQL), Python, C/C++ |
+| **Core Frameworks** | Spring Boot 3, Spring Data JPA, React 19, Node.js, Express.js |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Mongoose |
+| **Security & Integration** | JWT/bcrypt Security, REST API Architecture, Helmet, CORS |
+| **DevOps & Platforms** | Docker, Render / Koyeb, Git/GitHub, GitHub Actions, Postman |
+| **Core Concepts** | Distributed Systems, Concurrency, OOP, SOLID Principles, Agile |
 
 ---
 
 ### 🌟 Featured Projects (Newest to Oldest)
 
-#### 🌙 [Aura — Navigate Her World](https://aura-xdq8.onrender.com/) (Feb 2026)
-*   **Concept:** A privacy-first mobile app using hormonal cycle data and environmental context for actionable daily guidance.
-*   **Tech:** React Native, Node.js, PostgreSQL, MongoDB, Python/ML.
-*   Architecture featuring a compatibility gate and ethical AI engine (Scikit-learn + TensorFlow Lite).
+#### 🌙 [Aura — Understand Her Fully](https://aura-g7pc.onrender.com/) (Spring 2026)
+*   **Full-Stack Prototype:** Dockerized Spring Boot 3 & Java 21 application deployed via Render/Koyeb.
+*   **Architecture:** PostgreSQL, Lombok, and a strictly-typed CSS design system.
+*   **Highlights:** Interactive couple quiz, real-time compatibility tally, token-based partner syncing, and animated SVG visualizations.
 
 #### 🧟 [Humans vs. Zombies Website](https://github.com/sonalkamble20) (Spring 2026)
 *   **Static Site:** A fully-themed, 8-page survival game website built with **Zero Frameworks**.
 *   **Highlights:** IntersectionObserver scroll animations, animated counters (requestAnimationFrame), and mobile-first responsive design.
 
-#### 🍓 [TaskBerry](https://github.com/sonalkamble20/WDP-Project) (Feb 2026)
-*   **Full-Stack:** Job & task manager with **Node.js, Express, and MySQL**.
-*   **Security:** Implemented JWT authentication with HttpOnly cookies and role-based admin access.
+#### 🍓 [TaskBerry — Job & Task Manager](https://github.com/sonalkamble20/WDP-Project) (Spring 2026)
+*   **Full-Stack Application:** Express.js and Node.js mapped to a structured **PostgreSQL** API layer.
+*   **Security-First:** Robust JWT authentication (HttpOnly cookie), bcrypt hashing, and rate limiting via custom middleware.
+*   **Productivity Engine:** Nested subtask engine, categorical XP reward system, and a premium "Organic SaaS" UI for dynamic state management.
 
 #### 🌐 [Interact](https://github.com/sonalkamble20/UIP-Project) (Spring 2026)
 *   **MERN Stack:** Social media platform with user profiles, posts, and follow systems.
