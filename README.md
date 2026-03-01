@@ -21,7 +21,7 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 
 ### 🌟 Featured Projects (Newest to Oldest)
 
-#### 🌙 [Aura — Understand Her Fully](https://aura-g7pc.onrender.com/) (Spring 2026)
+#### 🌙 [Aura — Understand Her Fully](https://www.theauragroup.tech/) (Spring 2026)
 *   **Full-Stack Prototype:** Dockerized Spring Boot 3 & Java 21 application deployed via Render/Koyeb.
 *   **Architecture:** PostgreSQL, Lombok, and a strictly-typed CSS design system.
 *   **Highlights:** Interactive couple quiz, real-time compatibility tally, token-based partner syncing, and animated SVG visualizations.
