@@ -30,6 +30,11 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 *   **Static Site:** A fully-themed, 8-page survival game website built with **Zero Frameworks**.
 *   **Highlights:** IntersectionObserver scroll animations, animated counters (requestAnimationFrame), and mobile-first responsive design.
 
+#### 📚 [Little Ones Learning Center](https://littleoneslearningcenter.org/) (Spring 2026)
+*   **Non-Profit Revamp:** Premium, multi-page literacy center website replacing a legacy WordPress build.
+*   **Design:** High-performance "Frosted Sheet" layout with dynamic glassmorphism and motion design.
+*   **Highlights:** IntersectionObserver reveal system, parallax textures, and zero-framework responsive grid architecture.
+
 #### 🍓 [TaskBerry — Job & Task Manager](https://github.com/sonalkamble20/WDP-Project) (Spring 2026)
 *   **Full-Stack Application:** Express.js and Node.js mapped to a structured **PostgreSQL** API layer.
 *   **Security-First:** Robust JWT authentication (HttpOnly cookie), bcrypt hashing, and rate limiting via custom middleware.
