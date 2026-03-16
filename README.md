@@ -26,10 +26,6 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 *   **Architecture:** PostgreSQL, Lombok, and a strictly-typed CSS design system.
 *   **Highlights:** Interactive couple quiz, real-time compatibility tally, token-based partner syncing, and animated SVG visualizations.
 
-#### 🧟 [Humans vs. Zombies Website](https://github.com/sonalkamble20) (Spring 2026)
-*   **Static Site:** A fully-themed, 8-page survival game website built with **Zero Frameworks**.
-*   **Highlights:** IntersectionObserver scroll animations, animated counters (requestAnimationFrame), and mobile-first responsive design.
-
 #### 📚 [Little Ones Learning Center](https://littleoneslearningcenter.org/) (Spring 2026)
 *   **Non-Profit Revamp:** Premium, multi-page literacy center website replacing a legacy WordPress build.
 *   **Design:** High-performance "Frosted Sheet" layout with dynamic glassmorphism and motion design.
@@ -43,14 +39,6 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 #### 🌐 [Interact](https://github.com/sonalkamble20/UIP-Project) (Spring 2026)
 *   **MERN Stack:** Social media platform with user profiles, posts, and follow systems.
 *   **React 19:** Optimized with optimistic UI updates and secure bcrypt password hashing.
-
-#### 🍽️ [Restaurant Management System](https://github.com/sonalkamble20) (2022)
-*   **Enterprise Flow:** End-to-end system covering ordering, serving, and billing.
-*   **Architecture:** Spring Boot, Spring Data JPA, and React.js applying **SOLID principles**.
-
-#### 🚁 [Thermal Imaging Drone](https://github.com/sonalkamble20) (2021)
-*   **IoT/CV:** Real-time crowd temperature detection system developed during the COVID-19 pandemic.
-*   **Algorithms:** Infrared-to-visual conversion pipeline and anomaly detection.
 
 ---
 
