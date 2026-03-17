@@ -21,21 +21,21 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 
 ### 🌟 Featured Projects (Newest to Oldest)
 
-#### 🌙 [Aura — Understand Her Fully](https://www.theauragroup.tech/) (Spring 2026)
+#### 🌙 [Aura — Understand Her Fully](https://www.theauragroup.tech/) (Independent)
 *   **Full-Stack Prototype:** Dockerized Spring Boot 3 & Java 21 application deployed via Render/Koyeb.
 *   **Architecture:** PostgreSQL, Lombok, and a strictly-typed CSS design system.
 *   **Highlights:** Interactive couple quiz, real-time compatibility tally, token-based partner syncing, and animated SVG visualizations.
 
-#### 📚 [Little Ones Learning Center](https://sonalkamble20.github.io/little-ones-learning-center/index.html) (Spring 2026)
+#### 📚 [Little Ones Learning Center](https://sonalkamble20.github.io/little-ones-learning-center/index.html) (Contract Work)
 *   **Non-Profit Revamp:** Premium, multi-page literacy center website replacing a legacy WordPress build.
 *   **Design:** High-performance "Frosted Sheet" layout with dynamic glassmorphism and motion design.
 *   **Highlights:** IntersectionObserver reveal system, parallax textures, and zero-framework responsive grid architecture.
 
-#### 🦌 [C.A.S.H. (Committee To Abolish Sport Hunting)](https://abolishsporthunting.org/) (Present)
+#### 🦌 [C.A.S.H. (Committee To Abolish Sport Hunting)](https://abolishsporthunting.org/) (Volunteer Work)
 *   **Infrastructure Modernization:** Maintenance and modernization of a 25+ year-old wildlife advocacy platform.
 *   **Engineering:** Structured improvements to legacy internal CMS and public outreach databases using PHP and MySQL.
 
-#### 🌐 [Interact](https://github.com/sonalkamble20/UIP-Project) (Spring 2026)
+#### 🌐 [Interact](https://github.com/sonalkamble20/UIP-Project) (Independent)
 *   **MERN Stack:** Social media platform with user profiles, posts, and follow systems.
 *   **React 19:** Optimized with optimistic UI updates and secure bcrypt password hashing.
 
