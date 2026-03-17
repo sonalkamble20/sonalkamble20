@@ -26,7 +26,7 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 *   **Architecture:** PostgreSQL, Lombok, and a strictly-typed CSS design system.
 *   **Highlights:** Interactive couple quiz, real-time compatibility tally, token-based partner syncing, and animated SVG visualizations.
 
-#### 📚 [Little Ones Learning Center](https://littleoneslearningcenter.org/) (Spring 2026)
+#### 📚 [Little Ones Learning Center](https://sonalkamble20.github.io/little-ones-learning-center/index.html) (Spring 2026)
 *   **Non-Profit Revamp:** Premium, multi-page literacy center website replacing a legacy WordPress build.
 *   **Design:** High-performance "Frosted Sheet" layout with dynamic glassmorphism and motion design.
 *   **Highlights:** IntersectionObserver reveal system, parallax textures, and zero-framework responsive grid architecture.
