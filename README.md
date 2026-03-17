@@ -31,10 +31,9 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 *   **Design:** High-performance "Frosted Sheet" layout with dynamic glassmorphism and motion design.
 *   **Highlights:** IntersectionObserver reveal system, parallax textures, and zero-framework responsive grid architecture.
 
-#### 🍓 [TaskBerry — Job & Task Manager](https://github.com/sonalkamble20/WDP-Project) (Spring 2026)
-*   **Full-Stack Application:** Express.js and Node.js mapped to a structured **PostgreSQL** API layer.
-*   **Security-First:** Robust JWT authentication (HttpOnly cookie), bcrypt hashing, and rate limiting via custom middleware.
-*   **Productivity Engine:** Nested subtask engine, categorical XP reward system, and a premium "Organic SaaS" UI for dynamic state management.
+#### 🦌 [C.A.S.H. (Committee To Abolish Sport Hunting)](https://abolishsporthunting.org/) (Present)
+*   **Infrastructure Modernization:** Maintenance and modernization of a 25+ year-old wildlife advocacy platform.
+*   **Engineering:** Structured improvements to legacy internal CMS and public outreach databases using PHP and MySQL.
 
 #### 🌐 [Interact](https://github.com/sonalkamble20/UIP-Project) (Spring 2026)
 *   **MERN Stack:** Social media platform with user profiles, posts, and follow systems.
