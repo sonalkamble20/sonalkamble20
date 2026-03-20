@@ -27,9 +27,9 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 *   **Highlights:** Interactive couple quiz, real-time compatibility tally, token-based partner syncing, and animated SVG visualizations.
 
 #### 📚 [Little Ones Learning Center](https://sonalkamble20.github.io/little-ones-learning-center/index.html) (Contract Work)
-*   **Non-Profit Revamp:** Premium, multi-page literacy center website replacing a legacy WordPress build.
-*   **Design:** High-performance "Frosted Sheet" layout with dynamic glassmorphism and motion design.
-*   **Highlights:** IntersectionObserver reveal system, parallax textures, and zero-framework responsive grid architecture.
+*   **Static Site Generator:** Custom Python engine (`generate_pages.py`) for processing JSON content into a zero-framework architecture.
+*   **Engineering:** Replaced a legacy WordPress build with an asset-optimized, headless system featuring serverless admin functions.
+*   **Design:** Premium "Frosted Sheet" UX using custom IntersectionObserver reveal animations and glassmorphism.
 
 #### 🦌 [C.A.S.H. (Committee To Abolish Sport Hunting)](https://abolishsporthunting.org/) (Volunteer Work)
 *   **Infrastructure Modernization:** Maintenance and modernization of a 25+ year-old wildlife advocacy platform.
