@@ -26,7 +26,7 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 *   **Architecture:** PostgreSQL, Lombok, and a strictly-typed CSS design system.
 *   **Highlights:** Interactive couple quiz, real-time compatibility tally, token-based partner syncing, and animated SVG visualizations.
 
-#### 📚 [Little Ones Learning Center](https://sonalkamble20.github.io/little-ones-learning-center/index.html) (Contract Work)
+#### 📚 [Little Ones Learning Center](https://little-ones-learning-center.pages.dev/) (Contract Work)
 *   **Static Site Generator:** Custom Python engine (`generate_pages.py`) for processing JSON content into a zero-framework architecture.
 *   **Engineering:** Replaced a legacy WordPress build with an asset-optimized, headless system featuring serverless admin functions.
 *   **Design:** Premium "Frosted Sheet" UX using custom IntersectionObserver reveal animations and glassmorphism.
