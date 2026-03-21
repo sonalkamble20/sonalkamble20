@@ -27,8 +27,8 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 *   **Highlights:** Interactive couple quiz, real-time compatibility tally, token-based partner syncing, and animated SVG visualizations.
 
 #### 📚 [Little Ones Learning Center](https://little-ones-learning-center.pages.dev/) (Contract Work)
-*   **Static Site Generator:** Custom Python engine (`generate_pages.py`) for processing JSON content into a zero-framework architecture.
-*   **Engineering:** Replaced a legacy WordPress build with an asset-optimized, headless system featuring serverless admin functions.
+*   **Full-Stack CMS:** Custom Java 17 & Spring Boot REST API backed by MySQL for dynamic content and image uploading.
+*   **Engineering:** Replaced a legacy WordPress build with an asset-optimized, full-stack application featuring a bespoke Admin Control Panel.
 *   **Design:** Premium "Frosted Sheet" UX using custom IntersectionObserver reveal animations and glassmorphism.
 
 #### 🦌 [C.A.S.H. (Committee To Abolish Sport Hunting)](https://abolishsporthunting.org/) (Volunteer Work)
