@@ -19,12 +19,7 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 
 ---
 
-### 🌟 Featured Projects (Newest to Oldest)
-
-#### 🌙 [Aura — Understand Her Fully](https://www.theauragroup.tech/) (Independent)
-*   **Full-Stack Prototype:** Dockerized Spring Boot 3 & Java 21 application deployed via Render/Koyeb.
-*   **Architecture:** PostgreSQL, Lombok, and a strictly-typed CSS design system.
-*   **Highlights:** Interactive couple quiz, real-time compatibility tally, token-based partner syncing, and animated SVG visualizations.
+### 🌟 Featured Architecture Projects
 
 #### 📚 [Little Ones Learning Center](https://little-ones-learning-center.pages.dev/) (Digital Modernization)
 *   **Solution Architecture:** Orchestrated a custom **JAMstack hybrid platform** (Java 21/Spring Boot 3 + Vanilla JS) to replace an ad-heavy legacy WordPress site.
@@ -32,13 +27,14 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 *   **Impact:** Reduced network requests by **85% (88 to 12)** and eliminated 100% of third-party advertisements and security vulnerabilities.
 *   **Stack:** Java 21, Spring Boot 3, MySQL, Python, Docker, Cloudflare.
 
+#### 🌙 [Aura — Understand Her Fully](https://www.theauragroup.tech/) (Independent)
+*   **Full-Stack Prototype:** Dockerized Spring Boot 3 & Java 21 application deployed via Render/Koyeb.
+*   **Architecture:** PostgreSQL, Lombok, and a strictly-typed CSS design system.
+*   **Highlights:** Interactive couple quiz, real-time compatibility tally, token-based partner syncing, and animated SVG visualizations.
+
 #### 🦌 [C.A.S.H. (Committee To Abolish Sport Hunting)](https://abolishsporthunting.org/) (Volunteer Work)
 *   **Infrastructure Modernization:** Maintenance and modernization of a 25+ year-old wildlife advocacy platform.
 *   **Engineering:** Structured improvements to legacy internal CMS and public outreach databases using PHP and MySQL.
-
-#### 🌐 [Interact](https://github.com/sonalkamble20/UIP-Project) (Independent)
-*   **MERN Stack:** Social media platform with user profiles, posts, and follow systems.
-*   **React 19:** Optimized with optimistic UI updates and secure bcrypt password hashing.
 
 ---
 
