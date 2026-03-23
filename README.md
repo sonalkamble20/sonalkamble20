@@ -13,7 +13,7 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 | **Languages** | Java 21, JavaScript (ES6+), SQL (PostgreSQL, MySQL), Python, C/C++ |
 | **Core Frameworks** | Spring Boot 3, Spring Data JPA, React 19, Node.js, Express.js |
 | **Databases** | PostgreSQL, MySQL, MongoDB, Mongoose |
-| **Security & Integration** | JWT/bcrypt Security, REST API Architecture, Helmet, CORS |
+| **Security & Integration** | 2-Step OTP (2FA), JWT/bcrypt, REST API Architecture, Helmet, CORS |
 | **DevOps & Platforms** | Docker, Render / Koyeb, Git/GitHub, GitHub Actions, Postman |
 | **Core Concepts** | Distributed Systems, Concurrency, OOP, SOLID Principles, Agile |
 
@@ -21,11 +21,12 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 
 ### 🌟 Featured Architecture Projects
 
-#### 📚 [Little Ones Learning Center](https://littleoneslearningcenter.org/) (Digital Modernization)
-*   **Solution Architecture:** Orchestrated a custom **JAMstack hybrid platform** (Java 21/Spring Boot 3 + Vanilla JS) to replace an ad-heavy legacy WordPress site.
+#### 📚 [Little Ones Learning Center](https://littleoneslearningcenter.org/) (High-Security Modernization)
+*   **Solution Architecture:** Orchestrated a custom **JAMstack hybrid platform** (Java 21/Spring Boot + Vanilla JS) to replace an ad-heavy legacy WordPress site with an MFA-protected core.
 *   **Engineering:** Built a **proprietary Python SSG engine** to automate 100% of page builds from a relational MySQL backend, achieving a **\$0/mo operational cost**.
+*   **Zero-Trust Security:** Engineered a robust **2-Step OTP Verification (2FA)** system for login and sensitive profile/password changes, ensuring official email-backed authorization for all administrative actions.
 *   **Impact:** Reduced network requests by **85% (88 to 12)** and eliminated 100% of third-party advertisements and security vulnerabilities.
-*   **Stack:** Java 21, Spring Boot 3, MySQL, Python, Docker, Cloudflare.
+*   **Stack:** Java 21, Spring Boot 3, MFA/OTP, MySQL, Python, Docker, Cloudflare.
 
 #### 🌙 [Aura — Understand Her Fully](https://aura-g7pc.onrender.com) (Independent)
 *   **Full-Stack Prototype:** Dockerized Spring Boot 3 & Java 21 application deployed via Render/Koyeb.
