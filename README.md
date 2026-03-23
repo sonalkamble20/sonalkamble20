@@ -1,8 +1,8 @@
 # Hi there, I'm Sonal Kamble 👋
 
-### 🚀 Backend Software Engineer | Distributed Systems & Fintech Enthusiast
+### 🚀 Software Solution Architect | Backend Engineering & Digital Modernization
 
-I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professional experience building scalable backend architectures. I specialize in designing high-throughput **Java services**, robust **REST APIs**, and performance-optimized database systems. Currently, I'm focusing on **distributed systems** and **financial trading infrastructure**.
+I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professional experience orchestrating high-performance, distributed architectures. I specialize in designing scalable **Java 21 services**, **Full-Stack JAMstack hybrids**, and **automated platform engineering**. Currently focusing on **mission-critical financial infrastructure** and **zero-cost modernization solutions**.
 
 ---
 
@@ -26,10 +26,11 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 *   **Architecture:** PostgreSQL, Lombok, and a strictly-typed CSS design system.
 *   **Highlights:** Interactive couple quiz, real-time compatibility tally, token-based partner syncing, and animated SVG visualizations.
 
-#### 📚 [Little Ones Learning Center](https://little-ones-learning-center.pages.dev/) (Contract Work)
-*   **Full-Stack CMS:** Custom Java 17 & Spring Boot REST API backed by MySQL for dynamic content and image uploading.
-*   **Engineering:** Replaced a legacy WordPress build with an asset-optimized, full-stack application featuring a bespoke Admin Control Panel.
-*   **Design:** Premium "Frosted Sheet" UX using custom IntersectionObserver reveal animations and glassmorphism.
+#### 📚 [Little Ones Learning Center](https://little-ones-learning-center.pages.dev/) (Digital Modernization)
+*   **Solution Architecture:** Orchestrated a custom **JAMstack hybrid platform** (Java 21/Spring Boot 3 + Vanilla JS) to replace an ad-heavy legacy WordPress site.
+*   **Engineering:** Built a **proprietary Python SSG engine** to automate 100% of page builds from a relational MySQL backend, achieving a **\$0/mo operational cost**.
+*   **Impact:** Reduced network requests by **85% (88 to 12)** and eliminated 100% of third-party advertisements and security vulnerabilities.
+*   **Stack:** Java 21, Spring Boot 3, MySQL, Python, Docker, Cloudflare.
 
 #### 🦌 [C.A.S.H. (Committee To Abolish Sport Hunting)](https://abolishsporthunting.org/) (Volunteer Work)
 *   **Infrastructure Modernization:** Maintenance and modernization of a 25+ year-old wildlife advocacy platform.
