@@ -21,7 +21,7 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 
 ### 🌟 Featured Architecture Projects
 
-#### 📚 [Little Ones Learning Center](https://little-ones-learning-center.pages.dev/) (Digital Modernization)
+#### 📚 [Little Ones Learning Center](https://littleoneslearningcenter.org/) (Digital Modernization)
 *   **Solution Architecture:** Orchestrated a custom **JAMstack hybrid platform** (Java 21/Spring Boot 3 + Vanilla JS) to replace an ad-heavy legacy WordPress site.
 *   **Engineering:** Built a **proprietary Python SSG engine** to automate 100% of page builds from a relational MySQL backend, achieving a **\$0/mo operational cost**.
 *   **Impact:** Reduced network requests by **85% (88 to 12)** and eliminated 100% of third-party advertisements and security vulnerabilities.
