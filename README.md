@@ -2,7 +2,7 @@
 
 ### 🚀 Software Solution Architect | Backend Engineering & Digital Modernization
 
-I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professional experience orchestrating high-performance, distributed architectures. I specialize in designing scalable **Java 21 services**, **Full-Stack JAMstack hybrids**, and **automated platform engineering**. Currently focusing on **mission-critical financial infrastructure** and **zero-cost modernization solutions**.
+I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professional experience orchestrating high-performance, distributed architectures. I specialize in designing scalable **Java 21 services**, **Full-Stack JAMstack hybrids**, and automated platform engineering. Architect of the **Sunny Stack**—achieving **\$0/mo hosting** and **85% network request reduction** in production modernization projects.
 
 ---
 
