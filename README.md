@@ -27,10 +27,11 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 *   **Impact:** Reduced network requests by **85% (88 to 12)** and eliminated 100% of third-party advertisements and security vulnerabilities.
 *   **Stack:** Java 21, Spring Boot 3, MySQL, Python, Docker, Cloudflare.
 
-#### 🌙 [Aura — Understand Her Fully](https://aura-g7pc.onrender.com) (Independent)
-*   **Full-Stack Prototype:** Dockerized Spring Boot 3 & Java 21 application deployed via Render/Koyeb.
-*   **Architecture:** PostgreSQL, Lombok, and a strictly-typed CSS design system.
-*   **Highlights:** Interactive couple quiz, real-time compatibility tally, token-based partner syncing, and animated SVG visualizations.
+#### 🌙 [Aura — Relational Intelligence Engine](https://aura-g7pc.onrender.com) (Independent)
+*   **Solution Architecture:** Orchestrated the **Aura Algorithm 2.0 suite**, implementing clinical cross-correlation algorithms (Gottman Method, EFT) for behavior pattern detection.
+*   **Engineering:** Developed a Dockerized Java 21/Spring Boot 3 platform featuring custom JPA encryption converters for a privacy-first data layer.
+*   **Highlights:** Real-time gauging of relational dynamics (e.g., Demand-Withdraw), behavioral clustering, secure token-based synchronization, and animated SVG visualizations.
+*   **Stack:** Java 21, Spring Boot 3, PostgreSQL, Docker, Render.
 
 #### 🦌 [C.A.S.H. (Committee To Abolish Sport Hunting)](https://abolishsporthunting.org/) (Volunteer Work)
 *   **Infrastructure Modernization:** Maintenance and modernization of a 25+ year-old wildlife advocacy platform.
