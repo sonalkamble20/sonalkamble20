@@ -10,12 +10,12 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java 21, JavaScript (ES6+), SQL (PostgreSQL, MySQL), Python, C/C++ |
-| **Core Frameworks** | Spring Boot 3, Spring Data JPA, React 19, Node.js, Express.js |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Mongoose |
-| **Security & Integration** | JWT/bcrypt Security, REST API Architecture, Helmet, CORS |
+| **Languages** | Java 21, JavaScript (ES6+), SQL (PostgreSQL, MySQL), Python, PHP, C/C++, HTML5, CSS3 |
+| **Core Frameworks** | Spring Boot 3, React 19, Node.js, Express.js, Spring Data JPA, Htmx, Thymeleaf, JUnit |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Mongoose ODM |
+| **Security & Integration** | JWT/bcrypt Security, REST API Architecture, Helmet, CORS, STOMP WebSockets |
 | **DevOps & Platforms** | Docker, Render / Koyeb, Git/GitHub, GitHub Actions, Postman |
-| **Core Concepts** | Distributed Systems, Concurrency, OOP, SOLID Principles, Agile |
+| **Core Concepts** | Generative AI, LLM Integration, Distributed Systems, OOP, SOLID Principles, Agile |
 
 ---
 
@@ -27,11 +27,11 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 *   **Impact:** Reduced network requests by **85% (88 to 12)** and eliminated 100% of third-party advertisements and security vulnerabilities.
 *   **Stack:** Java 21, Spring Boot 3, MySQL, Python, Docker, Cloudflare.
 
-#### 🌙 [Aura — Relational Intelligence Engine](https://aura-g7pc.onrender.com) (Independent)
+#### 🌙 [Aura — Relational Intelligence Engine](https://theauragroup.tech/) (Independent)
 *   **Solution Architecture:** Orchestrated the **Aura Algorithm 2.0 suite**, implementing clinical cross-correlation algorithms (Gottman Method, EFT) for behavior pattern detection.
-*   **Engineering:** Developed a Dockerized Java 21/Spring Boot 3 platform featuring custom JPA encryption converters for a privacy-first data layer.
-*   **Highlights:** Real-time gauging of relational dynamics (e.g., Demand-Withdraw), behavioral clustering, secure token-based synchronization, and animated SVG visualizations.
-*   **Stack:** Java 21, Spring Boot 3, PostgreSQL, Docker, Render.
+*   **Engineering:** Developed a Dockerized Java 21/Spring Boot 3 platform featuring custom JPA encryption converters for a privacy-first data layer, integrated with **Google Gemini Flash** for clinical pattern extraction.
+*   **Highlights:** Real-time gauging of relational dynamics, behavioral clustering, zero-latency partner synchronization via **STOMP WebSockets**, and responsive UI.
+*   **Stack:** Java 21, Spring Boot 3, PostgreSQL, WebSockets, Docker, Google Gemini AI.
 
 #### 🦌 [C.A.S.H. (Committee To Abolish Sport Hunting)](https://abolishsporthunting.org/) (Volunteer Work)
 *   **Infrastructure Modernization:** Maintenance and modernization of a 25+ year-old wildlife advocacy platform.
