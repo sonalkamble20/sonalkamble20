@@ -21,11 +21,11 @@ I’m a Graduate CS student at **SUNY New Paltz** with **3+ years** of professio
 
 ### 🌟 Featured Architecture Projects
 
-#### 📚 [Little Ones Learning Center](https://littleoneslearningcenter.org/) (Digital Modernization)
-*   **Solution Architecture:** Orchestrated a custom **JAMstack hybrid platform** (Java 21/Spring Boot 3 + Vanilla JS) to replace an ad-heavy legacy WordPress site.
-*   **Engineering:** Built a **proprietary Python SSG engine** to automate 100% of page builds from a relational MySQL backend, achieving a **\$0/mo operational cost**.
-*   **Impact:** Reduced network requests by **85% (88 to 12)** and eliminated 100% of third-party advertisements and security vulnerabilities.
-*   **Stack:** Java 21, Spring Boot 3, MySQL, Python, Docker, Cloudflare.
+#### 📚 [Little Ones Learning Center](https://littleoneslearningcenter.org/) (Production Client Modernization)
+*   **Solution Architecture:** Engineered and deployed a production-grade **Java 21 / Spring Boot 3 & Thymeleaf SSR platform** replacing an ad-heavy 20-year-old WordPress site for a 501(c)(3) literacy non-profit.
+*   **Engineering:** Eliminated client-side API waterfall delays through pre-compiled Server-Side Rendering (SSR), built a token/MFA-secured Master-Detail CMS, and automated media delivery via Cloudinary CDN.
+*   **Impact:** Reduced network round-trips by **85% (88 down to 12)**, cut mobile page weight by 75%, and empowered non-technical staff to autonomously manage content, events, and galleries.
+*   **Stack:** Java 21, Spring Boot 3, Thymeleaf SSR, Spring Security, Cloudinary CDN, Docker, Render.
 
 #### 🌙 [Aura — Relational Intelligence Engine](https://theauragroup.tech/) (Independent)
 *   **Solution Architecture:** Orchestrated the **Aura Algorithm 2.0 suite**, implementing clinical cross-correlation algorithms (Gottman Method, EFT) for behavior pattern detection.
