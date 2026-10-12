@@ -1,8 +1,8 @@
 # Hi there, I'm Sonal Kamble 👋
 
-### 🚀 Lead Software Engineer | Full-Stack & AI Systems
+### 🚀 AI-Native Lead Software Engineer | 10x Full-Stack Builder
 
-I hold an MS in Computer Science from **SUNY New Paltz** with **3+ years** of professional experience architecting mission-critical backend systems and AI-native applications. I specialize in designing scalable **Java 21 / Spring Boot 3 enterprise platforms**, server-side rendering, and automated Cloud architecture. Dedicated to shipping resilient production software that solves real problems for real organizations.
+I hold an MS in Computer Science from **SUNY New Paltz** with **3+ years** of professional experience delivering mission-critical backend systems and AI-native applications. A pioneer in AI-augmented engineering, I harness LLMs and autonomous code agents to automate 80%+ of full-stack scaffolding and test generation—delivering production Java 21 platforms at 10x velocity while maintaining total architectural ownership.
 
 ---
 
